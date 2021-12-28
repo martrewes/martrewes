@@ -13,7 +13,7 @@
 
 ![img](https://github-readme-stats.vercel.app/api?username=martrewes&count_private=true&show_icons=true&hide=prs,issues&theme=merko)
 
-![img](https://github-readme-stats.vercel.app/api/wakatime?username=martrewes&theme=merko)
+![img](https://github-readme-stats.vercel.app/api/wakatime?username=martrewes&theme=merko&v=2)
 ---
 
 <a href="https://github.com/martrewes/CompleteLightsOutProject">
