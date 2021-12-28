@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**martrewes/martrewes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Cyber Security Challenges, my [Handheld Game](https://github.com/martrewes/CompleteLightsOutProject), and anything else that takes my fancy.
+- 🌱 I’m currently learning anything and everything.
+- 👯 I’m looking to collaborate on projects when comfortable.
+- 💬 Ask me about anything.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-weston-5866a631/)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+<a href="https://github.com/martrewes/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martrewes&exclude_repo=OldCollegeProjects,SH_Clues&theme=merko&langs_count=6" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![img](https://github-readme-stats.vercel.app/api?username=martrewes&count_private=true&show_icons=true&hide=prs,issues&theme=merko)
+
+![img](https://github-readme-stats.vercel.app/api/wakatime?username=martrewes&theme=merko)
+---
+
+<a href="https://github.com/martrewes/CompleteLightsOutProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martrewes&repo=CompleteLightsOutProject&theme=merko" />
+</a>
+<a href="https://github.com/martrewes/AdventOfCyber2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martrewes&repo=AdventOfCyber2021&theme=merko" />
+</a>
