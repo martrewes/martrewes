@@ -8,17 +8,17 @@
 - 😄 Pronouns: He/Him
 
 <a href="https://github.com/martrewes/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martrewes&exclude_repo=OldCollegeProjects,SH_Clues&theme=merko&langs_count=6" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martrewes&exclude_repo=OldCollegeProjects,SH_Clues&theme=gotham&langs_count=6" />
 </a>
 
-![img](https://github-readme-stats.vercel.app/api?username=martrewes&count_private=true&show_icons=true&hide=prs,issues&theme=merko)
+![img](https://github-readme-stats.vercel.app/api?username=martrewes&count_private=true&show_icons=true&hide=prs,issues&theme=gotham)
 
-![img](https://github-readme-stats.vercel.app/api/wakatime?username=martrewes&theme=merko)
+![img](https://github-readme-stats.vercel.app/api/wakatime?username=martrewes&theme=gotham)
 ---
 
 <a href="https://github.com/martrewes/CompleteLightsOutProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martrewes&repo=CompleteLightsOutProject&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martrewes&repo=CompleteLightsOutProject&theme=gotham" />
 </a>
 <a href="https://github.com/martrewes/AdventOfCyber2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martrewes&repo=AdventOfCyber2021&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martrewes&repo=AdventOfCyber2021&theme=gotham" />
 </a>
