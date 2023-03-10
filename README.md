@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cyber Security Challenges, my [Handheld Game](https://github.com/martrewes/CompleteLightsOutProject), and anything else that takes my fancy.
-- 🌱 I’m currently learning anything and everything.
-- 👯 I’m looking to collaborate on projects when comfortable.
-- 💬 Ask me about anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-weston-5866a631/)
 - 😄 Pronouns: He/Him
 
